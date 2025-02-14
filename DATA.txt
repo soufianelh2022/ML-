@@ -1,7 +1,7 @@
 {"ads":{
   
   "ShowAds":true,
-  "ClickCount":1,
+  "ClickCount":3,
    "ShowLoadingAds":true,
  "ShowPopup":false,
   
@@ -13,11 +13,11 @@
   "yandex_native":"demo-native-app-yandex",
   "yandex_reward":"demo-rewarded-yandex",
   
-  "MaxBanner": "7c217530b37da6db",
-  "MaxNative": "c6feb0531b2bb192",
-  "MaxInterstitial": "c9feceddbf0d8ec2",
-  "MaxReward":"934dec764ec5257a",
-  "Maxopen":"9f9e60545e946f33",
+  "MaxBanner": "cd68b07a61ed8e31",
+  "MaxNative": "0736cc28875fd7a1",
+  "MaxInterstitial": "854b4f0a75808927",
+  "MaxReward":"0c05f093350bf750",
+  "Maxopen":"121d1666b99da4c7",
   
   "PriorityBanner":"max",
   "PriorityNative":"yandex",
