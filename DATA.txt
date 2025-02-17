@@ -1,7 +1,7 @@
 {"ads":{
   
   "ShowAds":true,
-  "ClickCount":3,
+  "ClickCount":1,
    "ShowLoadingAds":true,
  "ShowPopup":false,
   
@@ -19,11 +19,11 @@
   "MaxReward":"0c05f093350bf750",
   "Maxopen":"121d1666b99da4c7",
   
-  "PriorityBanner":"max",
+  "PriorityBanner":"yandex",
   "PriorityNative":"yandex",
-  "PriorityReward":"max",
-  "PriorityOpen":"max",
-  "priorityInterstitial":"max"
+  "PriorityReward":"yandex",
+  "PriorityOpen":"yandex",
+  "priorityInterstitial":"yandex"
  
 
   
