@@ -19,11 +19,11 @@
   "MaxReward":"0c05f093350bf750",
   "Maxopen":"5469057d4654e9a7	",
   
-  "PriorityBanner":"yandex",
-  "PriorityNative":"yandex",
-  "PriorityReward":"yandex",
-  "PriorityOpen":"yandex",
-  "priorityInterstitial":"yandex"
+  "PriorityBanner":"max",
+  "PriorityNative":"max",
+  "PriorityReward":"max",
+  "PriorityOpen":"max",
+  "priorityInterstitial":"max"
  
 
   
